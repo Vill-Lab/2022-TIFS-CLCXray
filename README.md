@@ -7,6 +7,10 @@ scanned from manually designed baggage. There are 12 categories in the CLCXray d
 include blade, dagger, knife, scissors, swiss army knife. Seven kinds of liquid containers include cans, carton drinks, glass bottle, plastic bottle, vacuum cup, spray cans,
 tin.
 The annotations are made in COCO format.
+
+## Codes
+The source codes is in [https://github.com/GreysonPhoenix/mmdetection](https://github.com/GreysonPhoenix/mmdetection).
+
 ## LICENSE
 - The images and the corresponding annotation results can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed
 - Copyright © Visual and Intelligent Learning Lab, Tongji University (Tongji). All rights reserved.
